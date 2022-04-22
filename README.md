@@ -7,9 +7,6 @@
 ### Problem Statement
 Building a model to predict how capable each applicant is of repaying a loan, so that loan sanctioning is done only for the applicants who are likely to repay the loan.
 
-## Evaluation Matrix
-- **Area Under Curve (AUC)**: An ROC curve is the most commonly used way to visualize the performance of a binary classifier, and AUC is (arguably) the best way to summarize its performance in a single number. 
-- **Confusion Matrix**: To get an overview of complete predictions.
 ---
 
 ## Data Overview
@@ -136,6 +133,10 @@ Chosen to balance the high performance of Random Forest and to cover up the issu
 
 <img width="429" alt="Screen Shot 2022-04-22 at 22 43 56" src="https://user-images.githubusercontent.com/91368463/164749443-d343e39c-7f37-4f01-a4b6-833b4f7fae30.png">
 
+
+## Evaluation Matrix
+- **Area Under Curve (AUC)**: An ROC curve is the most commonly used way to visualize the performance of a binary classifier, and AUC is (arguably) the best way to summarize its performance in a single number. 
+- **Confusion Matrix**: To get an overview of complete predictions.
 
 ### ROC Curve
 
